@@ -1,0 +1,90 @@
+// GERMAN FLASHCARD VOCABULARY
+// Format: English | German | Hint (optional)
+// Lines starting with // are comments and will be ignored
+// Empty lines are also ignored
+
+// Daily Routine
+to get up | aufstehen
+to wake up | aufwachen
+to wash yourself | sich waschen
+to shower | duschen
+to brush teeth | Zähne putzen
+to get dressed | sich anziehen
+to eat breakfast | frühstücken
+to go to work / school | zur Arbeit / zur Schule gehen
+to work / study | arbeiten / lernen
+to eat lunch | Mittagessen essen
+to take a break | eine Pause machen
+to go home | nach Hause gehen
+to cook | kochen
+to eat dinner | Abendessen essen
+to watch TV | fernsehen
+to read | lesen
+to exercise / train | Sport machen / trainieren
+to rest | sich ausruhen
+to go to sleep | schlafen gehen
+
+// Family
+mother | die Mutter
+father | der Vater
+parents | die Eltern
+sister | die Schwester
+brother | der Bruder
+grandmother | die Großmutter
+grandfather | der Großvater
+son | der Sohn
+daughter | die Tochter
+children | die Kinder
+aunt | die Tante
+uncle | der Onkel
+cousin (m) | der Cousin
+cousin (f) | die Cousine
+
+// Seasons
+spring | der Frühling
+summer | der Sommer
+autumn / fall | der Herbst
+winter | der Winter
+
+// Months
+January | Januar
+February | Februar
+March | März
+April | April
+May | Mai
+June | Juni
+July | Juli
+August | August
+September | September
+October | Oktober
+November | November
+December | Dezember
+
+// Days of the Week
+Monday | Montag
+Tuesday | Dienstag
+Wednesday | Mittwoch
+Thursday | Donnerstag
+Friday | Freitag
+Saturday | Samstag
+Sunday | Sonntag
+
+// Occupations
+teacher (m) | der Lehrer
+teacher (f) | die Lehrerin
+doctor (m) | der Arzt
+doctor (f) | die Ärztin
+nurse (m) | der Krankenpfleger
+nurse (f) | die Krankenschwester
+engineer (m) | der Ingenieur
+engineer (f) | die Ingenieurin
+lawyer (m) | der Rechtsanwalt
+lawyer (f) | die Rechtsanwältin
+student (m) | der Student
+student (f) | die Studentin
+chef / cook (m) | der Koch
+chef / cook (f) | die Köchin
+police officer (m) | der Polizist
+police officer (f) | die Polizistin
+salesperson (m) | der Verkäufer
+salesperson (f) | die Verkäuferin
