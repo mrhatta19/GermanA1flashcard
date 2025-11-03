@@ -242,6 +242,9 @@
                     }
                 }
                 
+                // Shuffle the flashcards randomly
+                shuffleArray(flashcards);
+                
                 if (flashcards.length > 0) {
                     loadCard();
                 } else {
@@ -254,6 +257,15 @@
                 frontContent.textContent = 'Error loading vocabulary';
                 backContent.textContent = 'Make sure vocab.txt exists';
             }
+        }
+
+        // Fisher-Yates shuffle algorithm
+        function shuffleArray(array) {
+            for (let i = array.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [array[i], array[j]] = [array[j], array[i]];
+            }
+            return array;
         }
 
         // ========================================
