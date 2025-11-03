@@ -1,0 +1,310 @@
+// GERMAN FLASHCARD VOCABULARY
+// This vocabulary has been randomly shuffled
+// Format: English | German | Hint (optional)
+
+the niece | die Nichte
+without | ohne
+monthly | monatlich
+to exist/pass | bestehen
+the relative | der Verwandte
+the asparagus | der Spargel
+green | grün
+red | rot
+to press | drücken
+at the latest | spätestens
+welcome | Willkommen
+you (formal dative) | Ihnen
+to end | beenden
+the tomato | die Tomate
+November | der November
+Friday | der Freitag
+the shoulder | die Schulter
+the phase | die Phase
+Wednesday | der Mittwoch
+unfortunately | leider
+ten | zehn
+any | irgendwelche
+the season | die Saison
+the century | das Jahrhundert
+the heart | das Herz
+the blood | das Blut
+the age | das Alter
+Saturday | der Samstag
+October | der Oktober
+I'm doing well | Mir geht's gut
+to publish | veröffentlichen
+to find out | herausfinden
+the back | der Rücken
+the hair | das Haar
+excuse me | Entschuldigung
+pregnant | schwanger
+to thank | danken
+the body | der Körper
+meanwhile | inzwischen
+the skin | die Haut
+the recipe | das Rezept
+good day | Guten Tag
+at/around | um
+alright | in Ordnung
+to open (account) | eröffnen
+the past | die Vergangenheit
+eight | acht
+to ask | fragen
+fourteen | vierzehn
+until | bis
+the dollar | der Dollar
+the bread | das Brot
+June | der Juni
+to cost | kosten
+good evening | Guten Abend
+the end | das Ende
+the breakfast | das Frühstück
+yellow | gelb
+to buy | kaufen
+you're welcome | Gern geschehen
+the beginner | der Anfänger
+to send | senden
+to count | zählen
+the gentleman | der Herr
+the ATM | der Geldautomat
+Christmas | das Weihnachten
+she is | sie ist
+to drink | trinken
+the men | die Männer
+see you tomorrow | Bis morgen
+to win | gewinnen
+the franc | der Franken
+you are | du bist
+the year | das Jahr
+the foot | der Fuß
+white | weiß
+the women | die Frauen
+the neck | der Hals
+the tooth | der Zahn
+the future | die Zukunft
+all clear | Alles klar
+the audience | das Publikum
+good night | Gute Nacht
+the week | die Woche
+fifteen | fünfzehn
+the date | das Datum
+to show | zeigen
+the mouth | der Mund
+to end | enden
+through | durch
+good morning | Guten Morgen
+for what | wofür
+quiet | leise
+about what | worüber
+the finger | der Finger
+you (plural accusative) | euch
+March | der März
+to treat | behandeln
+no | nein
+to say | sagen
+to give | geben
+the person | die Person
+the bean | die Bohne
+me | mir
+us | uns
+the great-grandchild | der Urenkel
+the onion | die Zwiebel
+the iron | das Eisen
+daily | täglich
+Tuesday | der Dienstag
+the aunt | die Tante
+she/they | sie
+him (accusative) | ihn
+me (accusative) | mich
+over | vorbei
+along | entlang
+the vegetarian | der Vegetarier
+how are you | Wie geht's?
+see you later | Bis später
+twelve | zwölf
+to have lunch | zu Mittag essen
+fantastic | fantastisch
+five | fünf
+the twin | der Zwilling
+the menu | die Speisekarte
+the cent | der Cent
+the man | der Mann
+to process | bearbeiten
+the face | das Gesicht
+you (formal) | Sie
+the visitor | der Besucher
+against | gegen
+seven | sieben
+thank you | Danke
+to let | lassen
+to annoy | nerven
+what | was
+them (formal) | ihnen
+the tip | das Trinkgeld
+soon | bald
+the head | der Kopf
+two | zwei
+you (plural) | ihr
+the idea | die Ahnung
+to transfer | überweisen
+six | sechs
+to be | sein
+twice | zweimal
+the child | das Kind
+when | wann
+for | für
+where to | wohin
+to represent | vertreten
+pink | pink
+thirteen | dreizehn
+you (accusative) | dich
+exactly | genau
+the month | der Monat
+blue | blau
+how | wie
+to get up | aufstehen
+the dessert | der Nachtisch
+autumn | der Herbst
+four | vier
+the water | das Wasser
+Monday | der Montag
+seventeen | siebzehn
+the ear | das Ohr
+the price | der Preis
+to hang | hängen
+the sum | die Summe
+please | bitte
+the weekday | der Werktag
+I am | ich bin
+the weekend | das Wochenende
+to result in | ergeben
+August | der August
+the money | das Geld
+goodbye (formal) | Auf Wiedersehen!
+Sunday | der Sonntag
+to answer | antworten
+everyday life | der Alltag
+to manage | schaffen
+the calendar | der Kalender
+the beginning | der Anfang
+one | eins
+September | der September
+hot | heiß
+bye | Tschüss!
+to represent | darstellen
+finally | endlich
+which | welch
+the woman | die Frau
+for free | umsonst
+the topic | das Thema
+to search | durchsuchen
+to deliver | liefern
+to own | besitzen
+why | warum
+December | der Dezember
+the nose | die Nase
+the number | die Zahl
+the color | die Farbe
+the girl | das Mädchen
+the boys | die Jungen
+to convey | vermitteln
+the leg | das Bein
+the stomach | der Magen
+the citizen | der Bürger
+to follow | folgen
+they are | sie sind
+the birthday | der Geburtstag
+the salad | der Salat
+I'm sorry | Tut mir leid
+to fail | versagen
+colorful | bunt
+black | schwarz
+April | der April
+summer | der Sommer
+sour | sauer
+to remove | entfernen
+eighteen | achtzehn
+the baby | das Baby
+July | der Juli
+to plan | planen
+salty | salzig
+the phone number | die Telefonnummer
+the day | der Tag
+to authorize | berechtigen
+nineteen | neunzehn
+to guarantee | garantieren
+you are (formal) | Sie sind
+he is | er ist
+the partnership | die Partnerschaft
+where | wo
+weekly | wöchentlich
+whose | wessen
+to telephone | telefonieren
+you (dative) | dir
+the quarter | das Quartal
+to help | helfen
+the garlic | der Knoblauch
+the euro | der Euro
+the uncle | der Onkel
+see you soon | Bis bald!
+who | wer
+Thursday | der Donnerstag
+the arm | der Arm
+the conclusion | der Schluss
+to suffice | genügen
+to belong | gehören
+rich | reich
+the season | die Jahreszeit
+January | der Januar
+the answer | die Antwort
+the eye | das Auge
+sixteen | sechzehn
+you are (plural informal) | ihr seid
+to exist | existieren
+spring | der Frühling
+brown | braun
+why | wieso
+the grandma | die Oma
+the fan | der Fan
+May | der Mai
+afterwards | danach
+how much | wie viel
+the chest | die Brust
+to activate | aktivieren
+twenty | zwanzig
+the mushroom | der Pilz
+the knife | das Messer
+the spoon | der Löffel
+to demand | fordern
+to arise | entstehen
+the boy | der Junge
+we are | wir sind
+winter | der Winter
+him | ihm
+married | verheiratet
+the hand | die Hand
+cool | kühl
+eleven | elf
+the nephew | der Neffe
+other | andere
+the English | das Englisch
+the jam | die Marmelade
+the adult | der Erwachsene
+last | letzte
+yearly | jährlich
+the main course | das Hauptgericht
+to taste | schmecken
+the question | die Frage
+to recommend | empfehlen
+it | es
+hello | Hallo
+the great-grandmother | die Urgroßmutter
+gray | grau
+how many | wie viele
+yes | ja
+the children | die Kinder
+no problem | Keine Ursache!
+nine | neun
+to receive | bekommen
+February | der Februar
+the mother | die Mutter
