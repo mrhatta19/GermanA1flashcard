@@ -57,6 +57,7 @@ That's it! Just save the file and refresh your webpage.
 - Responsive design for mobile and desktop
 - Progress tracker
 - Easy vocabulary updates - just edit vocab.txt!
+- **Automatic shuffle** - cards are randomized every time you load the page
 
 ## Current Vocabulary (72 cards)
 
