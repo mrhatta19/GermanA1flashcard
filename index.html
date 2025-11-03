@@ -171,11 +171,11 @@
         <div class="flashcard-container">
             <div class="flashcard" id="flashcard">
                 <div class="card-face card-front">
-                    <div class="card-label">English</div>
+                    <div class="card-label">Deutsch</div>
                     <div class="card-content" id="front-content">Add your cards</div>
                 </div>
                 <div class="card-face card-back">
-                    <div class="card-label">Deutsch</div>
+                    <div class="card-label">English</div>
                     <div class="card-content" id="back-content">See instructions below</div>
                     <div class="card-hint" id="hint"></div>
                 </div>
@@ -274,8 +274,8 @@
 
         function loadCard() {
             const card = flashcards[currentCardIndex];
-            frontContent.textContent = card.english;
-            backContent.textContent = card.german;
+            frontContent.textContent = card.german;
+            backContent.textContent = card.english;
             hint.textContent = card.hint || '';
             progress.textContent = `${currentCardIndex + 1} / ${flashcards.length}`;
             
